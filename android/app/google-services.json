@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "23237764705",
+    "firebase_url": "https://tegy-nbadel-default-rtdb.firebaseio.com",
+    "project_id": "tegy-nbadel",
+    "storage_bucket": "tegy-nbadel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23237764705:android:5018f6cf258f4d0ca8ac20",
+        "android_client_info": {
+          "package_name": "com.tegynbadel.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23237764705-0p9da9jdja17g8unc36kf5u50tghvkeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkDSCPCYCxJQ8YJx60-XwqynikwNeIaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23237764705-0p9da9jdja17g8unc36kf5u50tghvkeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
