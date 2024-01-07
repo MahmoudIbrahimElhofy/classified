@@ -12,7 +12,8 @@ description: A new Tegy Nbadel application.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 
-version: 1.4.0+23
+# version: 1.0.0+6
+version: 1.0.0+2
 publish_to: none
 
 environment:
@@ -86,7 +87,7 @@ dependencies:
   platform_device_id: 1.0.1
   encrypt: 5.0.1
   dotted_border: 2.1.0
-  flutter_stripe: ^9.2.0
+  flutter_stripe: any
   flutter_svg: ^2.0.6
   firebase_app_check: ^0.1.3
   calendar_date_picker2: ^0.5.2
